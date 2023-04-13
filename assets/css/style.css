@@ -9,6 +9,25 @@
   --color-red: #dc3545;
 }
 
+.menginap {
+  font-style: italic;
+}
+.rundown {
+  font-weight: 600;
+}
+
+.kpd-yth {
+  font-size: smaller;
+}
+.di-tempat {
+  font-size: smaller;
+  font-weight: 400;
+  font-style: italic;
+}
+.bold-aaa {
+  font-weight: 600;
+}
+
 body {
   background-color: var(--color-gray) !important;
   font-family: "Montserrat", sans-serif;
@@ -17,6 +36,7 @@ body {
 .font-great-vibes {
   font-family: "Great Vibes" !important;
 }
+
 .font-pt-sans {
   font-family: "PT Sans", sans-serif !important;
 }
@@ -241,15 +261,15 @@ p.small {
   justify-content: center;
 }
 .pengantin h3 {
-  font-size: 50px;
+  font-size: 40px;
 }
 .pengantin h3.be {
   margin-top: -30px;
-  margin-left: -40px;
+  margin-left: -15px;
 }
 .pengantin h3.jo {
-  margin-top: -15px;
-  margin-left: 40px;
+  margin-top: 4px;
+  margin-left: 0px;
 }
 .pengantin span.dan {
   position: absolute;
