@@ -9,6 +9,25 @@
   --color-red: #dc3545;
 }
 
+.transpp {
+    color: rgba(0, 0, 0, 0);
+}
+.th {
+  width: 50%;
+}
+
+table, th, td {
+  border: none;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 130%;
+  color: var(--color-black);
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+}
+
 .menginap {
   font-style: italic;
 }
